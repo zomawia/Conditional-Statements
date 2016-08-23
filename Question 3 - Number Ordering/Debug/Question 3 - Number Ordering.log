@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\zomawai.sailo\documents\visual studio 2015\projects\conditional statements\question 3 - number ordering\main.cpp(25): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+c:\users\zomawai.sailo\documents\visual studio 2015\projects\conditional statements\question 3 - number ordering\main.cpp(29): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+c:\users\zomawai.sailo\documents\visual studio 2015\projects\conditional statements\question 3 - number ordering\main.cpp(37): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+c:\users\zomawai.sailo\documents\visual studio 2015\projects\conditional statements\question 3 - number ordering\main.cpp(55): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+  Question 3 - Number Ordering.vcxproj -> c:\users\zomawai.sailo\documents\visual studio 2015\Projects\Conditional Statements\Debug\Question 3 - Number Ordering.exe
+  Question 3 - Number Ordering.vcxproj -> c:\users\zomawai.sailo\documents\visual studio 2015\Projects\Conditional Statements\Debug\Question 3 - Number Ordering.pdb (Partial PDB)
